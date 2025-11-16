@@ -1,0 +1,10 @@
+streamlit>=1.18
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+transformers>=4.30.0
+torch>=1.13.0
+sentencepiece
+pandas
+numpy
+tqdm
+pyngrok
