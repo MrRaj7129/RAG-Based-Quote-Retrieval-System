@@ -8,3 +8,9 @@ pandas
 numpy
 tqdm
 pyngrok
+huggingface-hub
+fsspec
+pyarrow
+pandas
+numpy
+faiss-cpu
